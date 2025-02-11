@@ -1,6 +1,6 @@
 ---
 
-# MovieShow - Find Popular Movies Near You
+# MovieMapper - Find Popular Movies Near You
 
 MovieShow is an iOS mobile application designed to help users quickly and easily discover the most popular movies currently playing near them. It aggregates showtimes from various movie theaters and links directly to the ticket-selling website for each selected time slot.
 
