@@ -1,0 +1,198 @@
+[
+  {
+    "film_id": 338418,
+    "imdb_id": 11389872,
+    "imdb_title_id": "tt11389872",
+    "film_name": "Kingdom of the Planet of the Apes",
+    "other_titles": null,
+    "version_type": "Standard",
+    "rating": "PG-13 ",
+    "imageURL": "https://image.movieglu.com/338418/338418h1.jpg",
+    "showing" :
+      {
+        "times":
+        [
+            {
+                "start_time": "15:40",
+                "end_time": "18:30"
+            },
+            {
+                "start_time": "18:30",
+                "end_time": "21:20"
+            },
+            {
+                "start_time": "21:20",
+                "end_time": "00:10"
+            }
+          ]
+      }
+  },
+  {
+    "film_id": 252072,
+    "imdb_id": 1684562,
+    "imdb_title_id": "tt1684562",
+    "film_name": "The Fall Guy",
+    "other_titles": null,
+    "version_type": "Standard",
+    "rating": "PG-13 ",
+    "imageURL": "https://image.movieglu.com/252072/252072h1.jpg",
+    "showing" :
+      {
+        "times":
+        [
+            {
+                "start_time": "15:40",
+                "end_time": "18:30"
+            },
+            {
+                "start_time": "18:30",
+                "end_time": "21:20"
+            },
+            {
+                "start_time": "21:20",
+                "end_time": "00:10"
+            }
+          ]
+      }
+  },
+  {
+    "film_id": 347248,
+    "imdb_id": 14088510,
+    "imdb_title_id": "tt14088510",
+    "film_name": "Tarot",
+    "other_titles": null,
+    "version_type": "Standard",
+    "rating": "PG ",
+    "imageURL": "https://image.movieglu.com/347248/347248h1.jpg",
+    "showing" :
+      {
+        "times":
+        [
+            {
+                "start_time": "15:40",
+                "end_time": "18:30"
+            },
+            {
+                "start_time": "18:30",
+                "end_time": "21:20"
+            },
+            {
+                "start_time": "21:20",
+                "end_time": "00:10"
+            }
+          ]
+      }
+  },
+  {
+    "film_id": 346189,
+    "imdb_id": 14539740,
+    "imdb_title_id": "tt14539740",
+    "film_name": "Godzilla x Kong: The New Empire",
+    "other_titles": null,
+    "version_type": "Standard",
+    "rating": "PG ",
+    "imageURL": "https://image.movieglu.com/346189/346189h1.jpg",
+    "showing" :
+      {
+        "times":
+        [
+            {
+                "start_time": "15:40",
+                "end_time": "18:30"
+            },
+            {
+                "start_time": "18:30",
+                "end_time": "21:20"
+            },
+            {
+                "start_time": "21:20",
+                "end_time": "00:10"
+            }
+          ]
+      }
+  },
+  {
+    "film_id": 357043,
+    "imdb_id": 120915,
+    "imdb_title_id": "tt0120915",
+    "film_name": "Star Wars Episode 1 The Phantom Menace 25th Anniversary",
+    "other_titles": null,
+    "version_type": "Standard",
+    "rating": "PG ",
+    "imageURL": "https://image.movieglu.com/357043/357043h1.jpg",
+    "showing" :
+      {
+        "times":
+        [
+            {
+                "start_time": "15:40",
+                "end_time": "18:30"
+            },
+            {
+                "start_time": "18:30",
+                "end_time": "21:20"
+            },
+            {
+                "start_time": "21:20",
+                "end_time": "00:10"
+            }
+          ]
+      }
+  },
+  {
+    "film_id": 327731,
+    "imdb_id": 7093904,
+    "imdb_title_id": "tt7093904",
+    "film_name": "Dragonkeeper",
+    "other_titles": null,
+    "version_type": "Standard",
+    "rating": "PG ",
+    "imageURL": "https://image.movieglu.com/327731/327731h1.jpg",
+    "showing" :
+      {
+        "times":
+        [
+            {
+                "start_time": "15:40",
+                "end_time": "18:30"
+            },
+            {
+                "start_time": "18:30",
+                "end_time": "21:20"
+            },
+            {
+                "start_time": "21:20",
+                "end_time": "00:10"
+            }
+          ]
+      }
+  },
+  {
+    "film_id": 356038,
+    "imdb_id": 28172032,
+    "imdb_title_id": "tt28172032",
+    "film_name": "Escape From Germany",
+    "rating": "PG ",
+    "imageURL": "https://image.movieglu.com/356038/356038h1.jpg",
+    "showing" :
+      {
+        "times":
+        [
+            {
+                "start_time": "15:40",
+                "end_time": "18:30"
+            },
+            {
+                "start_time": "18:30",
+                "end_time": "21:20"
+            },
+            {
+                "start_time": "21:20",
+                "end_time": "00:10"
+            }
+          ]
+      }
+  }
+  
+]
+

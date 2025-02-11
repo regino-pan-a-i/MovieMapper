@@ -1,0 +1,394 @@
+{
+   "films":
+   [
+      {
+          "film_id": 335764,
+          "imdb_id": 5779228,
+          "imdb_title_id": "tt5779228",
+          "film_name": "The Garfield Movie",
+          "other_titles": null,
+          "version_type": "Standard",
+          "age_rating": [
+              {
+                  "rating": "PG ",
+                  "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                  "age_advisory": "for action/peril and mild thematic elements."
+              }
+          ],
+          "images": {
+              "poster": {
+                  "1": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/335764/335764h1.jpg",
+                          "width": 200,
+                          "height": 300
+                      }
+                  }
+              }
+          },
+          "showings": {
+              "Standard": {
+                  "film_id": 335764,
+                  "film_name": "The Garfield Movie",
+                  "times": [
+                      {
+                          "start_time": "14:40",
+                          "end_time": "16:46"
+                      },
+                      {
+                          "start_time": "17:00",
+                          "end_time": "19:06"
+                      },
+                      {
+                          "start_time": "19:10",
+                          "end_time": "21:16"
+                      },
+                      {
+                          "start_time": "21:20",
+                          "end_time": "23:26"
+                      }
+                  ]
+              }
+          },
+          "show_dates": [
+              {
+                  "date": "2024-05-30"
+              }
+          ]
+      },
+      {
+          "film_id": 335209,
+          "imdb_id": 11152168,
+          "imdb_title_id": "tt11152168",
+          "film_name": "If",
+          "other_titles": null,
+          "version_type": "Standard",
+          "age_rating": [
+              {
+                  "rating": "PG ",
+                  "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                  "age_advisory": "for thematic elements and mild language."
+              }
+          ],
+          "images": {
+              "poster": {
+                  "1": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/335209/335209h1.jpg",
+                          "width": 200,
+                          "height": 300
+                      }
+                  }
+              }
+          },
+          "showings": {
+              "Standard": {
+                  "film_id": 335209,
+                  "film_name": "If",
+                  "times": [
+                      {
+                          "start_time": "16:50",
+                          "end_time": "18:59"
+                      },
+                      {
+                          "start_time": "19:00",
+                          "end_time": "21:09"
+                      },
+                      {
+                          "start_time": "21:10",
+                          "end_time": "23:19"
+                      }
+                  ]
+              }
+          },
+          "show_dates": [
+              {
+                  "date": "2024-05-30"
+              }
+          ]
+      },
+      {
+          "film_id": 338418,
+          "imdb_id": 11389872,
+          "imdb_title_id": "tt11389872",
+          "film_name": "Kingdom of the Planet of the Apes",
+          "other_titles": null,
+          "version_type": "Standard",
+          "age_rating": [
+              {
+                  "rating": "PG-13 ",
+                  "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                  "age_advisory": "for intense sequences of sci-fi violence/action."
+              }
+          ],
+          "images": {
+              "poster": {
+                  "1": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/338418/338418h1.jpg",
+                          "width": 200,
+                          "height": 300
+                      }
+                  }
+              },
+              "still": {
+                  "1": {
+                      "image_orientation": "landscape",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/338418/338418h2.jpg",
+                          "width": 300,
+                          "height": 200
+                      }
+                  }
+              }
+          },
+          "showings": {
+              "Standard": {
+                  "film_id": 338418,
+                  "film_name": "Kingdom of the Planet of the Apes",
+                  "times": [
+                      {
+                          "start_time": "15:40",
+                          "end_time": "18:30"
+                      },
+                      {
+                          "start_time": "18:30",
+                          "end_time": "21:20"
+                      },
+                      {
+                          "start_time": "21:20",
+                          "end_time": "00:10"
+                      }
+                  ]
+              }
+          },
+          "show_dates": [
+              {
+                  "date": "2024-05-30"
+              }
+          ]
+      },
+      {
+          "film_id": 252072,
+          "imdb_id": 1684562,
+          "imdb_title_id": "tt1684562",
+          "film_name": "The Fall Guy",
+          "other_titles": null,
+          "version_type": "Standard",
+          "age_rating": [
+              {
+                  "rating": "PG-13 ",
+                  "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                  "age_advisory": "for action and violence, drug content and some strong language."
+              }
+          ],
+          "images": {
+              "poster": {
+                  "1": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/252072/252072h1.jpg",
+                          "width": 200,
+                          "height": 300
+                      }
+                  }
+              },
+              "still": {
+                  "1": {
+                      "image_orientation": "landscape",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/252072/252072h2.jpg",
+                          "width": 300,
+                          "height": 200
+                      }
+                  }
+              }
+          },
+          "showings": {
+              "Standard": {
+                  "film_id": 252072,
+                  "film_name": "The Fall Guy",
+                  "times": [
+                      {
+                          "start_time": "16:05",
+                          "end_time": "18:35"
+                      },
+                      {
+                          "start_time": "20:45",
+                          "end_time": "23:15"
+                      }
+                  ]
+              }
+          },
+          "show_dates": [
+              {
+                  "date": "2024-05-30"
+              }
+          ]
+      },
+      {
+          "film_id": 345764,
+          "imdb_id": 12873300,
+          "imdb_title_id": "tt12873300",
+          "film_name": "Sight",
+          "other_titles": null,
+          "version_type": "Standard",
+          "age_rating": [
+              {
+                  "rating": "PG-13 ",
+                  "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                  "age_advisory": ""
+              }
+          ],
+          "images": {
+              "poster": {
+                  "1": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/345764/345764h1.jpg",
+                          "width": 200,
+                          "height": 300
+                      }
+                  }
+              },
+              "still": {
+                  "1": {
+                      "image_orientation": "landscape",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/345764/345764h2.jpg",
+                          "width": 300,
+                          "height": 200
+                      }
+                  }
+              }
+          },
+          "showings": {
+              "Standard": {
+                  "film_id": 345764,
+                  "film_name": "Sight",
+                  "times": [
+                      {
+                          "start_time": "14:30",
+                          "end_time": "16:35"
+                      },
+                      {
+                          "start_time": "16:40",
+                          "end_time": "18:45"
+                      },
+                      {
+                          "start_time": "18:50",
+                          "end_time": "20:55"
+                      },
+                      {
+                          "start_time": "21:00",
+                          "end_time": "23:05"
+                      }
+                  ]
+              }
+          },
+          "show_dates": [
+              {
+                  "date": "2024-05-30"
+              }
+          ]
+      },
+      {
+          "film_id": 356038,
+          "imdb_id": 28172032,
+          "imdb_title_id": "tt28172032",
+          "film_name": "Escape From Germany",
+          "other_titles": null,
+          "version_type": "Standard",
+          "age_rating": [
+              {
+                  "rating": "PG ",
+                  "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                  "age_advisory": ""
+              }
+          ],
+          "images": {
+              "poster": {
+                  "1": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/356038/356038h1.jpg",
+                          "width": 203,
+                          "height": 300
+                      }
+                  }
+              }
+          },
+          "showings": {
+              "Standard": {
+                  "film_id": 356038,
+                  "film_name": "Escape From Germany",
+                  "times": [
+                      {
+                          "start_time": "18:40",
+                          "end_time": "20:42"
+                      }
+                  ]
+              }
+          },
+          "show_dates": [
+              {
+                  "date": "2024-05-30"
+              }
+          ]
+      },
+      {
+          "film_id": 348509,
+          "imdb_id": 21810762,
+          "imdb_title_id": "tt21810762",
+          "film_name": "Jungle Bunch: Operation Meltdown (Les As de la Jungle 2)",
+          "other_titles": null,
+          "version_type": "Standard",
+          "age_rating": [
+              {
+                  "rating": "PG ",
+                  "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                  "age_advisory": ""
+              }
+          ],
+          "images": {
+              "poster": {
+                  "1": {
+                      "image_orientation": "portrait",
+                      "region": "global",
+                      "medium": {
+                          "film_image": "https://image.movieglu.com/348509/348509h1.jpg",
+                          "width": 200,
+                          "height": 300
+                      }
+                  }
+              }
+          },
+          "showings": {
+              "Standard": {
+                  "film_id": 348509,
+                  "film_name": "Jungle Bunch: Operation Meltdown (Les As de la Jungle 2)",
+                  "times": [
+                      {
+                          "start_time": "15:00",
+                          "end_time": "16:54"
+                      }
+                  ]
+              }
+          },
+          "show_dates": [
+              {
+                  "date": "2024-05-30"
+              }
+          ]
+      }
+   ]
+}
